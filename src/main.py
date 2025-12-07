@@ -13,12 +13,6 @@ import threading
 # CONFIGURATION & CONSTANTS
 # =====================================================================
 
-# These are kept for future use (screen-relative coordinates), but
-# currently the login UI uses keyboard navigation only.
-ACCOUNT_CLICK_POS = (0.5, 0.4)
-PASSWORD_CLICK_POS = (0.5, 0.5)
-OK_BUTTON_CLICK_POS = (0.5, 0.6)
-
 # Filenames (relative to script/exe directory)
 CREDS_FILENAME = "creds.txt"       # Stores encrypted username/password + server keys
 KI_ICON_FILENAME = "ki_icon.ico"   # Icon for the game selection window
