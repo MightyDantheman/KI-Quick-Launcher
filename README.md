@@ -1,6 +1,6 @@
-# KingsIsle Quick Launcher (Unofficial)
+# KI Quick Launcher (Unofficial)
 
-**KingsIsle Quick Launcher** is an unofficial fan-made tool that lets you quickly launch the main KingsIsle games:
+**KI Quick Launcher** is an unofficial fan-made tool that lets you quickly launch the main KingsIsle games:
 
 - Wizard101
 - Pirate101
@@ -41,7 +41,7 @@ The tool will save a `.txt` file in the same folder that the `.exe` or `.py` fil
 
 You can download the latest version from the **Releases** page:
 
-👉 [Download the latest release](https://github.com/MightyDantheman/Kingsisle-Quick-Launcher/releases)
+👉 [Download the latest release](https://github.com/MightyDantheman/KI-Quick-Launcher/releases)
 
 Or directly download the `.exe` from the latest release on the right-hand side of this page.
 
@@ -78,7 +78,7 @@ Direct images or icons will not be provided.
 If building the tool yourself, this is what the folder should look like:
 
 ```text
-Kingsisle-Quick-Launcher/
+KI-Quick-Launcher/
 ├─ ki_icon.ico
 ├─ main.py
 ├─ p101_icon.png
