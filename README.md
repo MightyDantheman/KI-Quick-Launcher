@@ -54,7 +54,7 @@ This tool does not automate gameplay, connect to the internet, or modify game fi
 
 The executable has been scanned and checked with VirusTotal.
 
-- VirusTotal report: [View scan results](https://www.virustotal.com/gui/file/d5eb07f0c851c37bf5fd11c6bd315b1fbdd48a413b5d3ce57f15c424e65eb479)
+- VirusTotal report: [View scan results](https://www.virustotal.com/gui/file/2d089166868ee23d1540fa7061b7fce648d9604d68cb2844ccda49676eb07eaa)
 
 > Note: Antivirus results can vary over time and by vendor. Always verify downloads from the official GitHub releases and scan them with your own antivirus if you have any doubts.
 
