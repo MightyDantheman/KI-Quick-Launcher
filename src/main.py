@@ -994,8 +994,8 @@ def prepare_game_configs() -> list[dict]:
         exe_path = find_executable_for_game(base_cfg)
         selection_icon_path = RESOURCE_DIR / base_cfg["selection_icon_file"]
 
-        # Game must be installed AND have a selection icon PNG to show up
-        if exe_path is None or not selection_icon_path.exists():
+        # Game must be installed to show up
+        if exe_path is None:
             continue
 
         game_cfg = dict(base_cfg)
