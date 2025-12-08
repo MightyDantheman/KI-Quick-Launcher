@@ -9,6 +9,8 @@ Instead of opening the official launcher and having to have your game files scan
 
 > This tool is designed for the Windows operating system.
 
+> ⚠️ This tool has yet to be tested outside of my own computer. Please report if you run into any bugs.
+
 This tool launches the graphical client with special parameters `-r` and `-L`, which will skip the launcher and connect to the appropriate server. This tool will then automatically log you in. While all of this could be done manually, the login area does not allow you to paste anything, which can make long and complex passwords difficult. This tool is an all-in-one solution.
 
 The tool will save a `.txt` file in the same folder that the `.exe` or `.py` file is in. This `.txt` file stores launch information for future logins. The username and password, if the "remember" toggle is enabled, will be stored there encrypted as well.
@@ -55,6 +57,8 @@ This tool does not automate gameplay, connect to the internet, or modify game fi
 The executable has been scanned and checked with VirusTotal.
 
 - VirusTotal report: [View scan results](https://www.virustotal.com/gui/file/2d089166868ee23d1540fa7061b7fce648d9604d68cb2844ccda49676eb07eaa)
+
+- The source python script's report: [View scan results](https://www.virustotal.com/gui/file/241b39e5769723048b71676d3572e49a645f3f1d07723392c1170d695a6d706a)
 
 > Note: Antivirus results can vary over time and by vendor. Always verify downloads from the official GitHub releases and scan them with your own antivirus if you have any doubts.
 
