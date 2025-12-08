@@ -9,7 +9,7 @@ Instead of opening the official launcher and having to have your game files scan
 
 > This tool is designed for the Windows operating system.
 
-> ⚠️ This tool has yet to be tested outside of my own computer. Please report if you run into any bugs.
+> ⚠️ This tool hasn't been widely tested yet, but it works on both of my computers. Please report if you run into any bugs.
 
 This tool launches the graphical client with special parameters `-r` and `-L`, which will skip the launcher and connect to the appropriate server. This tool will then automatically log you in. While all of this could be done manually, the login area does not allow you to paste anything, which can make long and complex passwords difficult. This tool is an all-in-one solution.
 
